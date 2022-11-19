@@ -19,7 +19,16 @@
         "constituency_code": "E14000917",
         "Consituitency": "Selby and Ainsty",
         "MP": "Nigel Adams",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 8720.0,
+        "total_patients_2022": 10736.0,
+        "patient_change_pc": 23.119266055045873,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": 28.57142857142857,
+        "total_gp_fte_2013": 6.333,
+        "total_gp_fte_2022": 5.993333333,
+        "gp_fte_change_pc": -5.363440186325602
       }
     },
     {
@@ -40,7 +49,16 @@
         "constituency_code": "E14000917",
         "Consituitency": "Selby and Ainsty",
         "MP": "Nigel Adams",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 9633.0,
+        "total_patients_2022": 10278.0,
+        "patient_change_pc": 6.695733416381191,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": -14.285714285714285,
+        "total_gp_fte_2013": 6.303,
+        "total_gp_fte_2022": 5.246666667,
+        "gp_fte_change_pc": -16.759215183246067
       }
     },
     {
@@ -61,7 +79,16 @@
         "constituency_code": "E14000917",
         "Consituitency": "Selby and Ainsty",
         "MP": "Nigel Adams",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 8206.0,
+        "total_patients_2022": 9104.0,
+        "patient_change_pc": 10.943212283694857,
+        "total_gp_hc_2013": 6.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 4.5,
+        "total_gp_fte_2022": 4.946933333,
+        "gp_fte_change_pc": 9.931851844444434
       }
     },
     {
@@ -82,7 +109,16 @@
         "constituency_code": "E14000766",
         "Consituitency": "Keighley",
         "MP": "Robbie Moore",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 4541.0,
+        "total_patients_2022": 5245.0,
+        "patient_change_pc": 15.503193129266682,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 2.25,
+        "total_gp_fte_2022": 5.013333333,
+        "gp_fte_change_pc": 122.81481480000001
       }
     },
     {
@@ -103,7 +139,16 @@
         "constituency_code": "E14000925",
         "Consituitency": "Shipley",
         "MP": "Philip Davies",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 6498.0,
+        "total_patients_2022": 6898.0,
+        "patient_change_pc": 6.155740227762388,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": 13.0,
+        "gp_hc_change_pc": 85.71428571428571,
+        "total_gp_fte_2013": 4.8,
+        "total_gp_fte_2022": 8.199466667,
+        "gp_fte_change_pc": 70.82222222916667
       }
     },
     {
@@ -124,7 +169,16 @@
         "constituency_code": "E14000766",
         "Consituitency": "Keighley",
         "MP": "Robbie Moore",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 2916.0,
+        "total_patients_2022": 3244.0,
+        "patient_change_pc": 11.248285322359397,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 1.5,
+        "total_gp_fte_2022": 1.266666667,
+        "gp_fte_change_pc": -15.555555533333335
       }
     },
     {
@@ -145,7 +199,16 @@
         "constituency_code": "E14000766",
         "Consituitency": "Keighley",
         "MP": "Robbie Moore",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 13307.0,
+        "total_patients_2022": 17770.0,
+        "patient_change_pc": 33.538739009543846,
+        "total_gp_hc_2013": 13.0,
+        "total_gp_hc_2022": 18.0,
+        "gp_hc_change_pc": 38.46153846153847,
+        "total_gp_fte_2013": 10.43,
+        "total_gp_fte_2022": 15.584,
+        "gp_fte_change_pc": 49.41514860977948
       }
     },
     {
@@ -166,7 +229,16 @@
         "constituency_code": "E14000826",
         "Consituitency": "Morley and Outwood",
         "MP": "Andrea Jenkyns",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 2377.0,
+        "total_patients_2022": 2462.0,
+        "patient_change_pc": 3.57593605384939,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 2.0,
+        "total_gp_fte_2022": 1.1024,
+        "gp_fte_change_pc": -44.879999999999995
       }
     },
     {
@@ -187,7 +259,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 11710.0,
+        "total_patients_2022": 14857.0,
+        "patient_change_pc": 26.874466268146886,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 11.0,
+        "gp_hc_change_pc": 37.5,
+        "total_gp_fte_2013": 7.5,
+        "total_gp_fte_2022": 8.327733334,
+        "gp_fte_change_pc": 11.036444453333326
       }
     },
     {
@@ -208,7 +289,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 14017.0,
+        "total_patients_2022": 16554.0,
+        "patient_change_pc": 18.099450667047158,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 14.0,
+        "gp_hc_change_pc": 75.0,
+        "total_gp_fte_2013": 7.35,
+        "total_gp_fte_2022": 10.4208,
+        "gp_fte_change_pc": 41.779591836734696
       }
     },
     {
@@ -229,7 +319,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 7401.0,
+        "total_patients_2022": 8066.0,
+        "patient_change_pc": 8.985272260505337,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 20.0,
+        "total_gp_fte_2013": 4.5,
+        "total_gp_fte_2022": 4.605866667,
+        "gp_fte_change_pc": 2.352592599999998
       }
     },
     {
@@ -250,7 +349,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4454.0,
+        "total_patients_2022": 5547.0,
+        "patient_change_pc": 24.539739559946117,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 3.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 2.375,
+        "total_gp_fte_2022": 2.133333333,
+        "gp_fte_change_pc": -10.175438610526317
       }
     },
     {
@@ -271,7 +379,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 13511.0,
+        "total_patients_2022": 15233.0,
+        "patient_change_pc": 12.745170601731923,
+        "total_gp_hc_2013": 10.0,
+        "total_gp_hc_2022": 13.0,
+        "gp_hc_change_pc": 30.0,
+        "total_gp_fte_2013": 7.85,
+        "total_gp_fte_2022": 10.72,
+        "gp_fte_change_pc": 36.56050955414014
       }
     },
     {
@@ -292,7 +409,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 7988.0,
+        "total_patients_2022": 8760.0,
+        "patient_change_pc": 9.664496745117676,
+        "total_gp_hc_2013": 6.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 5.316,
+        "total_gp_fte_2022": 6.7424,
+        "gp_fte_change_pc": 26.83220466516178
       }
     },
     {
@@ -313,7 +439,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 8484.0,
+        "total_patients_2022": 19394.0,
+        "patient_change_pc": 128.5950023573786,
+        "total_gp_hc_2013": 6.0,
+        "total_gp_hc_2022": 19.0,
+        "gp_hc_change_pc": 216.66666666666666,
+        "total_gp_fte_2013": 5.12,
+        "total_gp_fte_2022": 13.55849426,
+        "gp_fte_change_pc": 164.814341015625
       }
     },
     {
@@ -334,7 +469,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 6204.0,
+        "total_patients_2022": 8206.0,
+        "patient_change_pc": 32.269503546099294,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 20.0,
+        "total_gp_fte_2013": 4.38,
+        "total_gp_fte_2022": 3.9016,
+        "gp_fte_change_pc": -10.922374429223739
       }
     },
     {
@@ -355,7 +499,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 9001.0,
+        "total_patients_2022": 9882.0,
+        "patient_change_pc": 9.787801355404955,
+        "total_gp_hc_2013": 9.0,
+        "total_gp_hc_2022": 8.0,
+        "gp_hc_change_pc": -11.11111111111111,
+        "total_gp_fte_2013": 5.644,
+        "total_gp_fte_2022": 4.78,
+        "gp_fte_change_pc": -15.30829199149539
       }
     },
     {
@@ -376,7 +529,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 6897.0,
+        "total_patients_2022": 7082.0,
+        "patient_change_pc": 2.682325648832826,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 8.0,
+        "gp_hc_change_pc": 60.0,
+        "total_gp_fte_2013": 3.94,
+        "total_gp_fte_2022": 5.696266667,
+        "gp_fte_change_pc": 44.57529611675126
       }
     },
     {
@@ -397,7 +559,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 15044.0,
+        "total_patients_2022": 18779.0,
+        "patient_change_pc": 24.82717362403616,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 16.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 7.88,
+        "total_gp_fte_2022": 14.73333333,
+        "gp_fte_change_pc": 86.97123515228428
       }
     },
     {
@@ -418,7 +589,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 14149.0,
+        "total_patients_2022": 21310.0,
+        "patient_change_pc": 50.6113506254859,
+        "total_gp_hc_2013": 10.0,
+        "total_gp_hc_2022": 14.0,
+        "gp_hc_change_pc": 40.0,
+        "total_gp_fte_2013": 7.13,
+        "total_gp_fte_2022": 10.3736,
+        "gp_fte_change_pc": 45.49228611500701
       }
     },
     {
@@ -439,7 +619,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 11897.0,
+        "total_patients_2022": 13216.0,
+        "patient_change_pc": 11.086828612255191,
+        "total_gp_hc_2013": 9.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 7.121,
+        "total_gp_fte_2022": 6.386666667,
+        "gp_fte_change_pc": -10.31222206150822
       }
     },
     {
@@ -460,7 +649,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 14642.0,
+        "total_patients_2022": 14094.0,
+        "patient_change_pc": -3.742658106816009,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 10.0,
+        "gp_hc_change_pc": 25.0,
+        "total_gp_fte_2013": 7.13,
+        "total_gp_fte_2022": 7.453333333,
+        "gp_fte_change_pc": 4.534829354838708
       }
     },
     {
@@ -481,7 +679,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 16261.0,
+        "total_patients_2022": 17935.0,
+        "patient_change_pc": 10.294569829653772,
+        "total_gp_hc_2013": 17.0,
+        "total_gp_hc_2022": 16.0,
+        "gp_hc_change_pc": -5.88235294117647,
+        "total_gp_fte_2013": 14.825,
+        "total_gp_fte_2022": 13.65413333,
+        "gp_fte_change_pc": -7.8979202023608694
       }
     },
     {
@@ -502,7 +709,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 10379.0,
+        "total_patients_2022": 16129.0,
+        "patient_change_pc": 55.400327584545714,
+        "total_gp_hc_2013": 12.0,
+        "total_gp_hc_2022": 18.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 9.125,
+        "total_gp_fte_2022": 11.03813333,
+        "gp_fte_change_pc": 20.965844712328778
       }
     },
     {
@@ -523,7 +739,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 7176.0,
+        "total_patients_2022": 7648.0,
+        "patient_change_pc": 6.577480490523968,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": 28.57142857142857,
+        "total_gp_fte_2013": 5.38,
+        "total_gp_fte_2022": 6.08,
+        "gp_fte_change_pc": 13.01115241635688
       }
     },
     {
@@ -544,7 +769,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 9530.0,
+        "total_patients_2022": 9356.0,
+        "patient_change_pc": -1.8258132214060858,
+        "total_gp_hc_2013": 6.0,
+        "total_gp_hc_2022": 7.0,
+        "gp_hc_change_pc": 16.666666666666664,
+        "total_gp_fte_2013": 4.164,
+        "total_gp_fte_2022": 4.8496,
+        "gp_fte_change_pc": 16.464937560038425
       }
     },
     {
@@ -565,7 +799,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 12680.0,
+        "total_patients_2022": 14001.0,
+        "patient_change_pc": 10.417981072555204,
+        "total_gp_hc_2013": 10.0,
+        "total_gp_hc_2022": 11.0,
+        "gp_hc_change_pc": 10.0,
+        "total_gp_fte_2013": 8.625,
+        "total_gp_fte_2022": 8.453333333,
+        "gp_fte_change_pc": -1.9903381681159447
       }
     },
     {
@@ -586,7 +829,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4011.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 1.98,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -607,7 +859,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 9120.0,
+        "total_patients_2022": 9083.0,
+        "patient_change_pc": -0.4057017543859649,
+        "total_gp_hc_2013": 9.0,
+        "total_gp_hc_2022": 11.0,
+        "gp_hc_change_pc": 22.22222222222222,
+        "total_gp_fte_2013": 7.53,
+        "total_gp_fte_2022": 10.24,
+        "gp_fte_change_pc": 35.98937583001327
       }
     },
     {
@@ -628,28 +889,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.485829, 53.822932] },
-      "properties": {
-        "organisation_code": "B86026",
-        "name": "THE LODGE MEDICAL CENTRE",
-        "address_line_1": "THE LODGE MEDICAL CENTRE",
-        "address_line_2": "1A GRANGE PARK AVENUE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS8 3BA",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 9735.0,
+        "total_patients_2022": 11098.0,
+        "patient_change_pc": 14.001027221366206,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 7.0,
+        "gp_hc_change_pc": 40.0,
+        "total_gp_fte_2013": 4.0,
+        "total_gp_fte_2022": 5.5,
+        "gp_fte_change_pc": 37.5
       }
     },
     {
@@ -670,7 +919,16 @@
         "constituency_code": "E14000826",
         "Consituitency": "Morley and Outwood",
         "MP": "Andrea Jenkyns",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 3432.0,
+        "total_patients_2022": 5061.0,
+        "patient_change_pc": 47.46503496503497,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 4.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 1.4,
+        "total_gp_fte_2022": 2.16,
+        "gp_fte_change_pc": 54.285714285714306
       }
     },
     {
@@ -691,7 +949,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 5547.0,
+        "total_patients_2022": 5647.0,
+        "patient_change_pc": 1.802776275464215,
+        "total_gp_hc_2013": 6.0,
+        "total_gp_hc_2022": 4.0,
+        "gp_hc_change_pc": -33.33333333333333,
+        "total_gp_fte_2013": 4.1,
+        "total_gp_fte_2022": 3.133333333,
+        "gp_fte_change_pc": -23.577235780487797
       }
     },
     {
@@ -712,7 +979,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 9911.0,
+        "total_patients_2022": 11509.0,
+        "patient_change_pc": 16.123499142367066,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 12.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 6.755,
+        "total_gp_fte_2022": 9.853333334,
+        "gp_fte_change_pc": 45.867258830495935
       }
     },
     {
@@ -733,7 +1009,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 2919.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 2.2,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -754,7 +1039,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 11594.0,
+        "total_patients_2022": 19052.0,
+        "patient_change_pc": 64.32637571157495,
+        "total_gp_hc_2013": 10.0,
+        "total_gp_hc_2022": 16.0,
+        "gp_hc_change_pc": 60.0,
+        "total_gp_fte_2013": 8.625,
+        "total_gp_fte_2022": 13.70666667,
+        "gp_fte_change_pc": 58.91787443478261
       }
     },
     {
@@ -775,7 +1069,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 11041.0,
+        "total_patients_2022": 11908.0,
+        "patient_change_pc": 7.852549587899647,
+        "total_gp_hc_2013": 10.0,
+        "total_gp_hc_2022": 20.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 8.14,
+        "total_gp_fte_2022": 14.16666667,
+        "gp_fte_change_pc": 74.03767407862406
       }
     },
     {
@@ -796,7 +1099,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 6626.0,
+        "total_patients_2022": 6700.0,
+        "patient_change_pc": 1.116812556595231,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": 80.0,
+        "total_gp_fte_2013": 4.25,
+        "total_gp_fte_2022": 6.981066667,
+        "gp_fte_change_pc": 64.26039216470589
       }
     },
     {
@@ -817,7 +1129,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 7608.0,
+        "total_patients_2022": 9397.0,
+        "patient_change_pc": 23.51472134595163,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 20.0,
+        "total_gp_fte_2013": 4.049,
+        "total_gp_fte_2022": 3.741333333,
+        "gp_fte_change_pc": -7.598584020745871
       }
     },
     {
@@ -838,7 +1159,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 11410.0,
+        "total_patients_2022": 11457.0,
+        "patient_change_pc": 0.4119193689745837,
+        "total_gp_hc_2013": 9.0,
+        "total_gp_hc_2022": 11.0,
+        "gp_hc_change_pc": 22.22222222222222,
+        "total_gp_fte_2013": 6.875,
+        "total_gp_fte_2022": 7.313066667,
+        "gp_fte_change_pc": 6.3718787927272755
       }
     },
     {
@@ -859,7 +1189,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 1929.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 1.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 1.0,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -880,7 +1219,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 11570.0,
+        "total_patients_2022": 12190.0,
+        "patient_change_pc": 5.358686257562662,
+        "total_gp_hc_2013": 9.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": -33.33333333333333,
+        "total_gp_fte_2013": 6.675,
+        "total_gp_fte_2022": 4.0768,
+        "gp_fte_change_pc": -38.92434456928838
       }
     },
     {
@@ -901,7 +1249,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 6106.0,
+        "total_patients_2022": 9831.0,
+        "patient_change_pc": 61.00556829348183,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 3.22,
+        "total_gp_fte_2022": 4.7424,
+        "gp_fte_change_pc": 47.27950310559005
       }
     },
     {
@@ -922,7 +1279,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 6111.0,
+        "total_patients_2022": 7610.0,
+        "patient_change_pc": 24.52953690067092,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 3.5,
+        "total_gp_fte_2022": 4.940266667,
+        "gp_fte_change_pc": 41.150476200000014
       }
     },
     {
@@ -943,7 +1309,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 13629.0,
+        "total_patients_2022": 14895.0,
+        "patient_change_pc": 9.289016068677086,
+        "total_gp_hc_2013": 10.0,
+        "total_gp_hc_2022": 13.0,
+        "gp_hc_change_pc": 30.0,
+        "total_gp_fte_2013": 7.4,
+        "total_gp_fte_2022": 9.080533333,
+        "gp_fte_change_pc": 22.709909905405397
       }
     },
     {
@@ -964,7 +1339,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 7874.0,
+        "total_patients_2022": 8986.0,
+        "patient_change_pc": 14.122428244856488,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": -50.0,
+        "total_gp_fte_2013": 3.75,
+        "total_gp_fte_2022": 1.644533333,
+        "gp_fte_change_pc": -56.14577778666666
       }
     },
     {
@@ -985,7 +1369,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 23702.0,
+        "total_patients_2022": 26834.0,
+        "patient_change_pc": 13.214074761623493,
+        "total_gp_hc_2013": 22.0,
+        "total_gp_hc_2022": 25.0,
+        "gp_hc_change_pc": 13.636363636363635,
+        "total_gp_fte_2013": 18.351,
+        "total_gp_fte_2022": 22.29493333,
+        "gp_fte_change_pc": 21.491653479374424
       }
     },
     {
@@ -1006,7 +1399,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 7311.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 3.5,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1027,7 +1429,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 7667.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 5.135,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1048,7 +1459,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 13098.0,
+        "total_patients_2022": 14058.0,
+        "patient_change_pc": 7.329363261566652,
+        "total_gp_hc_2013": 10.0,
+        "total_gp_hc_2022": 14.0,
+        "gp_hc_change_pc": 40.0,
+        "total_gp_fte_2013": 8.03,
+        "total_gp_fte_2022": 10.19493333,
+        "gp_fte_change_pc": 26.96056450809465
       }
     },
     {
@@ -1069,7 +1489,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 7802.0,
+        "total_patients_2022": 9595.0,
+        "patient_change_pc": 22.981286849525763,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 10.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 3.75,
+        "total_gp_fte_2022": 7.5848,
+        "gp_fte_change_pc": 102.26133333333334
       }
     },
     {
@@ -1090,7 +1519,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 17400.0,
+        "total_patients_2022": 19792.0,
+        "patient_change_pc": 13.74712643678161,
+        "total_gp_hc_2013": 12.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": -25.0,
+        "total_gp_fte_2013": 9.82,
+        "total_gp_fte_2022": 7.173333334,
+        "gp_fte_change_pc": -26.951799042769863
       }
     },
     {
@@ -1111,7 +1549,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 6456.0,
+        "total_patients_2022": 14447.0,
+        "patient_change_pc": 123.77633209417596,
+        "total_gp_hc_2013": 6.0,
+        "total_gp_hc_2022": 20.0,
+        "gp_hc_change_pc": 233.33333333333334,
+        "total_gp_fte_2013": 4.64,
+        "total_gp_fte_2022": 15.29333333,
+        "gp_fte_change_pc": 229.5977010775862
       }
     },
     {
@@ -1132,7 +1579,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 10524.0,
+        "total_patients_2022": 11009.0,
+        "patient_change_pc": 4.608513873052072,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 5.0,
+        "gp_hc_change_pc": 25.0,
+        "total_gp_fte_2013": 4.0,
+        "total_gp_fte_2022": 4.243466667,
+        "gp_fte_change_pc": 6.0866666749999965
       }
     },
     {
@@ -1153,7 +1609,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 5951.0,
+        "total_patients_2022": 6302.0,
+        "patient_change_pc": 5.8981683750630145,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 4.0,
+        "total_gp_fte_2022": 4.183733333,
+        "gp_fte_change_pc": 4.593333325000004
       }
     },
     {
@@ -1174,7 +1639,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 6144.0,
+        "total_patients_2022": 6476.0,
+        "patient_change_pc": 5.403645833333334,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 8.0,
+        "gp_hc_change_pc": 60.0,
+        "total_gp_fte_2013": 4.75,
+        "total_gp_fte_2022": 6.128533333,
+        "gp_fte_change_pc": 29.021754378947367
       }
     },
     {
@@ -1195,7 +1669,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 5988.0,
+        "total_patients_2022": 4206.0,
+        "patient_change_pc": -29.759519038076153,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": -50.0,
+        "total_gp_fte_2013": 3.5,
+        "total_gp_fte_2022": 1.84,
+        "gp_fte_change_pc": -47.42857142857142
       }
     },
     {
@@ -1216,7 +1699,16 @@
         "constituency_code": "E14000826",
         "Consituitency": "Morley and Outwood",
         "MP": "Andrea Jenkyns",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 16166.0,
+        "total_patients_2022": 18322.0,
+        "patient_change_pc": 13.33663243845107,
+        "total_gp_hc_2013": 17.0,
+        "total_gp_hc_2022": 17.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 16.3,
+        "total_gp_fte_2022": 14.85333333,
+        "gp_fte_change_pc": -8.875255644171784
       }
     },
     {
@@ -1237,7 +1729,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 4471.0,
+        "total_patients_2022": 4074.0,
+        "patient_change_pc": -8.879445314247372,
+        "total_gp_hc_2013": 1.0,
+        "total_gp_hc_2022": 1.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 1.0,
+        "total_gp_fte_2022": 1.066666667,
+        "gp_fte_change_pc": 6.666666700000001
       }
     },
     {
@@ -1258,7 +1759,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 13032.0,
+        "total_patients_2022": 15621.0,
+        "patient_change_pc": 19.86648250460405,
+        "total_gp_hc_2013": 12.0,
+        "total_gp_hc_2022": 16.0,
+        "gp_hc_change_pc": 33.33333333333333,
+        "total_gp_fte_2013": 9.49,
+        "total_gp_fte_2022": 11.86666667,
+        "gp_fte_change_pc": 25.04390590094837
       }
     },
     {
@@ -1279,7 +1789,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 9008.0,
+        "total_patients_2022": 9965.0,
+        "patient_change_pc": 10.623889875666075,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": 8.0,
+        "gp_hc_change_pc": 14.285714285714285,
+        "total_gp_fte_2013": 6.2,
+        "total_gp_fte_2022": 5.666666667,
+        "gp_fte_change_pc": -8.602150532258062
       }
     },
     {
@@ -1300,7 +1819,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 3477.0,
+        "total_patients_2022": 4729.0,
+        "patient_change_pc": 36.0080529191832,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 1.0,
+        "gp_hc_change_pc": -50.0,
+        "total_gp_fte_2013": 1.5,
+        "total_gp_fte_2022": 0.746666667,
+        "gp_fte_change_pc": -50.2222222
       }
     },
     {
@@ -1321,7 +1849,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 9130.0,
+        "total_patients_2022": 8441.0,
+        "patient_change_pc": -7.546549835706462,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": 12.5,
+        "total_gp_fte_2013": 7.25,
+        "total_gp_fte_2022": 7.357333333,
+        "gp_fte_change_pc": 1.4804597655172371
       }
     },
     {
@@ -1342,7 +1879,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4183.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 2.75,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1363,7 +1909,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 12366.0,
+        "total_patients_2022": 13905.0,
+        "patient_change_pc": 12.445414847161572,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": 11.0,
+        "gp_hc_change_pc": 57.14285714285714,
+        "total_gp_fte_2013": 6.75,
+        "total_gp_fte_2022": 7.893333333,
+        "gp_fte_change_pc": 16.9382716
       }
     },
     {
@@ -1384,7 +1939,16 @@
         "constituency_code": "E14000826",
         "Consituitency": "Morley and Outwood",
         "MP": "Andrea Jenkyns",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 16557.0,
+        "total_patients_2022": 15085.0,
+        "patient_change_pc": -8.890499486621973,
+        "total_gp_hc_2013": 13.0,
+        "total_gp_hc_2022": 8.0,
+        "gp_hc_change_pc": -38.46153846153847,
+        "total_gp_fte_2013": 10.3,
+        "total_gp_fte_2022": 7.6,
+        "gp_fte_change_pc": -26.21359223300972
       }
     },
     {
@@ -1405,7 +1969,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 5185.0,
+        "total_patients_2022": 7752.0,
+        "patient_change_pc": 49.50819672131148,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": 80.0,
+        "total_gp_fte_2013": 3.894,
+        "total_gp_fte_2022": 6.995733334,
+        "gp_fte_change_pc": 79.65416882383151
       }
     },
     {
@@ -1426,7 +1999,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 12820.0,
+        "total_patients_2022": 13066.0,
+        "patient_change_pc": 1.9188767550702028,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 8.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 6.6,
+        "total_gp_fte_2022": 5.306666667,
+        "gp_fte_change_pc": -19.595959590909086
       }
     },
     {
@@ -1447,7 +2029,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 4158.0,
+        "total_patients_2022": 4377.0,
+        "patient_change_pc": 5.266955266955267,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 5.0,
+        "gp_hc_change_pc": 66.66666666666666,
+        "total_gp_fte_2013": 2.5,
+        "total_gp_fte_2022": 4.124533333,
+        "gp_fte_change_pc": 64.98133331999998
       }
     },
     {
@@ -1468,7 +2059,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 8766.0,
+        "total_patients_2022": 8761.0,
+        "patient_change_pc": -0.05703855806525211,
+        "total_gp_hc_2013": 6.0,
+        "total_gp_hc_2022": 6.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 4.97,
+        "total_gp_fte_2022": 4.666666667,
+        "gp_fte_change_pc": -6.1032863782696065
       }
     },
     {
@@ -1489,7 +2089,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 5052.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 1.75,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1510,7 +2119,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 11699.0,
+        "total_patients_2022": 12912.0,
+        "patient_change_pc": 10.368407556201385,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 16.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 6.423,
+        "total_gp_fte_2022": 14.18666667,
+        "gp_fte_change_pc": 120.87290471742176
       }
     },
     {
@@ -1531,7 +2149,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 6312.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 5.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 3.24,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1552,7 +2179,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 12391.0,
+        "total_patients_2022": 14672.0,
+        "patient_change_pc": 18.408522314583166,
+        "total_gp_hc_2013": 10.0,
+        "total_gp_hc_2022": 10.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 7.794,
+        "total_gp_fte_2022": 6.947466666,
+        "gp_fte_change_pc": -10.861346343341022
       }
     },
     {
@@ -1573,28 +2209,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.530804, 53.818315] },
-      "properties": {
-        "organisation_code": "B86090",
-        "name": "WOODLANDS SURGERY",
-        "address_line_1": "178 CHAPELTOWN ROAD",
-        "address_line_2": "LEEDS",
-        "address_line_3": "",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 4HP",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 6807.0,
+        "total_patients_2022": 7357.0,
+        "patient_change_pc": 8.07991773174673,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": 11.0,
+        "gp_hc_change_pc": 57.14285714285714,
+        "total_gp_fte_2013": 5.424,
+        "total_gp_fte_2022": 8.893333334,
+        "gp_fte_change_pc": 63.96263521386428
       }
     },
     {
@@ -1615,7 +2239,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 4488.0,
+        "total_patients_2022": 6639.0,
+        "patient_change_pc": 47.92780748663101,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 4.0,
+        "gp_hc_change_pc": 33.33333333333333,
+        "total_gp_fte_2013": 2.75,
+        "total_gp_fte_2022": 3.097066667,
+        "gp_fte_change_pc": 12.620606072727272
       }
     },
     {
@@ -1636,7 +2269,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 5267.0,
+        "total_patients_2022": 5677.0,
+        "patient_change_pc": 7.784317448262767,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 7.0,
+        "gp_hc_change_pc": 75.0,
+        "total_gp_fte_2013": 3.52,
+        "total_gp_fte_2022": 6.090625405,
+        "gp_fte_change_pc": 73.02913082386362
       }
     },
     {
@@ -1657,7 +2299,16 @@
         "constituency_code": "E14000886",
         "Consituitency": "Pudsey",
         "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 4285.0,
+        "total_patients_2022": 4832.0,
+        "patient_change_pc": 12.76546091015169,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 3.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 1.5,
+        "total_gp_fte_2022": 2.693333333,
+        "gp_fte_change_pc": 79.55555553333333
       }
     },
     {
@@ -1678,7 +2329,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 2931.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 1.5,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1699,7 +2359,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 5829.0,
+        "total_patients_2022": 5373.0,
+        "patient_change_pc": -7.822954194544519,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 4.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 2.0,
+        "total_gp_fte_2022": 2.06,
+        "gp_fte_change_pc": 3.0000000000000027
       }
     },
     {
@@ -1720,7 +2389,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 5674.0,
+        "total_patients_2022": 7488.0,
+        "patient_change_pc": 31.970391258371517,
+        "total_gp_hc_2013": 7.0,
+        "total_gp_hc_2022": 10.0,
+        "gp_hc_change_pc": 42.857142857142854,
+        "total_gp_fte_2013": 4.457,
+        "total_gp_fte_2022": 7.008,
+        "gp_fte_change_pc": 57.23580884002693
       }
     },
     {
@@ -1741,7 +2419,16 @@
         "constituency_code": "E14000826",
         "Consituitency": "Morley and Outwood",
         "MP": "Andrea Jenkyns",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 3308.0,
+        "total_patients_2022": 3452.0,
+        "patient_change_pc": 4.353083434099154,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": -33.33333333333333,
+        "total_gp_fte_2013": 2.1,
+        "total_gp_fte_2022": 1.453333333,
+        "gp_fte_change_pc": -30.793650809523815
       }
     },
     {
@@ -1762,7 +2449,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 2154.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 0.694,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1783,7 +2479,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 1918.0,
+        "total_patients_2022": 3668.0,
+        "patient_change_pc": 91.24087591240875,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": -33.33333333333333,
+        "total_gp_fte_2013": 1.833,
+        "total_gp_fte_2022": 1.12,
+        "gp_fte_change_pc": -38.89798145117294
       }
     },
     {
@@ -1804,7 +2509,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4683.0,
+        "total_patients_2022": 15511.0,
+        "patient_change_pc": 231.21930386504377,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 3.0,
+        "gp_hc_change_pc": -25.0,
+        "total_gp_fte_2013": 3.13,
+        "total_gp_fte_2022": 1.8,
+        "gp_fte_change_pc": -42.49201277955271
       }
     },
     {
@@ -1825,7 +2539,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 6393.0,
+        "total_patients_2022": 7159.0,
+        "patient_change_pc": 11.981855154074768,
+        "total_gp_hc_2013": 8.0,
+        "total_gp_hc_2022": 12.0,
+        "gp_hc_change_pc": 50.0,
+        "total_gp_fte_2013": 6.64,
+        "total_gp_fte_2022": 9.637333333,
+        "gp_fte_change_pc": 45.14056224397592
       }
     },
     {
@@ -1846,7 +2569,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 5943.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 3.0,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1867,7 +2599,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4972.0,
+        "total_patients_2022": 5634.0,
+        "patient_change_pc": 13.314561544650042,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 3.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 3.0,
+        "total_gp_fte_2022": 3.52,
+        "gp_fte_change_pc": 17.333333333333336
       }
     },
     {
@@ -1888,7 +2629,16 @@
         "constituency_code": "E14000780",
         "Consituitency": "Leeds North West",
         "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour (Co-op)",
+        "total_patients_2013": 7951.0,
+        "total_patients_2022": 7089.0,
+        "patient_change_pc": -10.84140359703182,
+        "total_gp_hc_2013": 9.0,
+        "total_gp_hc_2022": 9.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 6.664,
+        "total_gp_fte_2022": 8.2304,
+        "gp_fte_change_pc": 23.505402160864346
       }
     },
     {
@@ -1909,7 +2659,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 33201.0,
+        "total_patients_2022": 41748.0,
+        "patient_change_pc": 25.743200506008858,
+        "total_gp_hc_2013": 15.0,
+        "total_gp_hc_2022": 25.0,
+        "gp_hc_change_pc": 66.66666666666666,
+        "total_gp_fte_2013": 13.275,
+        "total_gp_fte_2022": 22.10576873,
+        "gp_fte_change_pc": 66.52179834274953
       }
     },
     {
@@ -1930,7 +2689,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 2906.0,
+        "total_patients_2022": 5068.0,
+        "patient_change_pc": 74.39779766001377,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 1.0,
+        "total_gp_fte_2022": 1.330133333,
+        "gp_fte_change_pc": 33.0133333
       }
     },
     {
@@ -1951,7 +2719,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 3708.0,
+        "total_patients_2022": 4149.0,
+        "patient_change_pc": 11.893203883495145,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": -33.33333333333333,
+        "total_gp_fte_2013": 2.05,
+        "total_gp_fte_2022": 1.92,
+        "gp_fte_change_pc": -6.341463414634142
       }
     },
     {
@@ -1972,7 +2749,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 2063.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 1.0,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -1993,7 +2779,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 1645.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 0.632,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -2014,7 +2809,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 1466.0,
+        "total_patients_2022": 2951.0,
+        "patient_change_pc": 101.29604365620737,
+        "total_gp_hc_2013": 1.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 1.0,
+        "total_gp_fte_2022": 1.220266667,
+        "gp_fte_change_pc": 22.026666699999996
       }
     },
     {
@@ -2035,7 +2839,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 3287.0,
+        "total_patients_2022": 3434.0,
+        "patient_change_pc": 4.472163066626103,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 1.16,
+        "total_gp_fte_2022": 2.225333333,
+        "gp_fte_change_pc": 91.8390804310345
       }
     },
     {
@@ -2056,7 +2869,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 2390.0,
+        "total_patients_2022": 2255.0,
+        "patient_change_pc": -5.648535564853557,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 0.796,
+        "total_gp_fte_2022": 1.093333333,
+        "gp_fte_change_pc": 37.353433793969835
       }
     },
     {
@@ -2077,28 +2899,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.511606, 53.793055] },
-      "properties": {
-        "organisation_code": "B86653",
-        "name": "LONDESBOROUGH HOUSE SURGERY",
-        "address_line_1": "LONDESBOROUGH HSE SURGERY",
-        "address_line_2": "1 EAST PARK PARADE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 9NQ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 1930.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 1.289,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -2119,7 +2929,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4475.0,
+        "total_patients_2022": 5170.0,
+        "patient_change_pc": 15.53072625698324,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 4.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 2.25,
+        "total_gp_fte_2022": 2.7048,
+        "gp_fte_change_pc": 20.21333333333334
       }
     },
     {
@@ -2140,7 +2959,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 1842.0,
+        "total_patients_2022": 1829.0,
+        "patient_change_pc": -0.7057546145494028,
+        "total_gp_hc_2013": 1.0,
+        "total_gp_hc_2022": 1.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 0.41,
+        "total_gp_fte_2022": 0.986666667,
+        "gp_fte_change_pc": 140.6504065853659
       }
     },
     {
@@ -2161,7 +2989,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 4177.0,
+        "total_patients_2022": 10323.0,
+        "patient_change_pc": 147.13909504429017,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 8.0,
+        "gp_hc_change_pc": 166.66666666666669,
+        "total_gp_fte_2013": 2.5,
+        "total_gp_fte_2022": 4.966666667,
+        "gp_fte_change_pc": 98.66666668
       }
     },
     {
@@ -2182,7 +3019,16 @@
         "constituency_code": "E14000779",
         "Consituitency": "Leeds North East",
         "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4108.0,
+        "total_patients_2022": 5025.0,
+        "patient_change_pc": 22.322297955209347,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 0.0,
+        "total_gp_fte_2013": 2.0,
+        "total_gp_fte_2022": 1.780266667,
+        "gp_fte_change_pc": -10.986666649999998
       }
     },
     {
@@ -2203,7 +3049,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4586.0,
+        "total_patients_2022": 7567.0,
+        "patient_change_pc": 65.00218054949848,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 4.0,
+        "gp_hc_change_pc": 33.33333333333333,
+        "total_gp_fte_2013": 1.902,
+        "total_gp_fte_2022": 3.533333333,
+        "gp_fte_change_pc": 85.76936556256572
       }
     },
     {
@@ -2224,7 +3079,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 1145.0,
+        "total_patients_2022": 2394.0,
+        "patient_change_pc": 109.08296943231441,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": 10.0,
+        "gp_hc_change_pc": 400.0,
+        "total_gp_fte_2013": 1.051,
+        "total_gp_fte_2022": 5.232,
+        "gp_fte_change_pc": 397.8116079923882
       }
     },
     {
@@ -2245,7 +3109,16 @@
         "constituency_code": "E14000778",
         "Consituitency": "Leeds East",
         "MP": "Richard Burgon",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 2014.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 0.7,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -2266,7 +3139,16 @@
         "constituency_code": "E14000781",
         "Consituitency": "Leeds West",
         "MP": "Rachel Reeves",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4786.0,
+        "total_patients_2022": 6270.0,
+        "patient_change_pc": 31.007104053489343,
+        "total_gp_hc_2013": 3.0,
+        "total_gp_hc_2022": 7.0,
+        "gp_hc_change_pc": 133.33333333333331,
+        "total_gp_fte_2013": 2.35,
+        "total_gp_fte_2022": 4.874666667,
+        "gp_fte_change_pc": 107.43262412765955
       }
     },
     {
@@ -2287,28 +3169,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.538987, 53.830806] },
-      "properties": {
-        "organisation_code": "B86674",
-        "name": "DR GOULD AND AL-TIMMAN",
-        "address_line_1": "DYNELEY HOUSE",
-        "address_line_2": "10 ALLERTON HILL",
-        "address_line_3": "CHAPEL ALLERTON",
-        "address_line_4": "LEEDS",
-        "address_line_5": "",
-        "postcode": "LS7 3QB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Conservative",
+        "total_patients_2013": 3775.0,
+        "total_patients_2022": 3336.0,
+        "patient_change_pc": -11.629139072847682,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 3.0,
+        "gp_hc_change_pc": -25.0,
+        "total_gp_fte_2013": 1.816,
+        "total_gp_fte_2022": 1.6,
+        "gp_fte_change_pc": -11.894273127753301
       }
     },
     {
@@ -2329,28 +3199,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.378865, 53.931019] },
-      "properties": {
-        "organisation_code": "B86681",
-        "name": "LEEDS MUSCULOSKELETAL SERVICE",
-        "address_line_1": "MSK OFFICE,WETHERBY H.CTR",
-        "address_line_2": "HALLFIELD LANE",
-        "address_line_3": "WETHERBY",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS22 6JS",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000689",
-        "Consituitency": "Elmet and Rothwell",
-        "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Labour",
+        "total_patients_2013": 3520.0,
+        "total_patients_2022": 4696.0,
+        "patient_change_pc": 33.409090909090914,
+        "total_gp_hc_2013": 1.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 1.0,
+        "total_gp_fte_2022": 0.82,
+        "gp_fte_change_pc": -18.000000000000004
       }
     },
     {
@@ -2371,49 +3229,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.532085, 53.747855] },
-      "properties": {
-        "organisation_code": "B86684",
-        "name": "CHILDRENS SERVICES",
-        "address_line_1": "ST GEORGE'S CENTRE",
-        "address_line_2": "ST GEORGE'S ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS10 4UZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.52765, 53.847237] },
-      "properties": {
-        "organisation_code": "B86685",
-        "name": "DONISTHORPE HALL NURSING HOME",
-        "address_line_1": "SHADWELL LANE",
-        "address_line_2": "LEEDS",
-        "address_line_3": "",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS17 6AW",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Labour",
+        "total_patients_2013": 4612.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 2.986,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -2434,7 +3259,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Conservative",
+        "total_patients_2013": 10071.0,
+        "total_patients_2022": 32033.0,
+        "patient_change_pc": 218.07169099394298,
+        "total_gp_hc_2013": 11.0,
+        "total_gp_hc_2022": 20.0,
+        "gp_hc_change_pc": 81.81818181818183,
+        "total_gp_fte_2013": 8.492,
+        "total_gp_fte_2022": 14.08,
+        "gp_fte_change_pc": 65.80310880829013
       }
     },
     {
@@ -2455,238 +3289,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.606231, 53.839251] },
-      "properties": {
-        "organisation_code": "Y00045",
-        "name": "LEEDS NORTH WEST PCT ENT GPWSI SERVICE",
-        "address_line_1": "NORTH WEST HOUSE",
-        "address_line_2": "WEST PARK RING ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS16 6QG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.606231, 53.839251] },
-      "properties": {
-        "organisation_code": "Y00291",
-        "name": "LEEDS NORTH WEST PCT VASECTOMY SERVICE",
-        "address_line_1": "NORTH WEST HOUSE",
-        "address_line_2": "WEST PARK RING ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS16 6QG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.573862, 53.82129] },
-      "properties": {
-        "organisation_code": "Y00329",
-        "name": "WHEATFIELDS SRC HOSPICE",
-        "address_line_1": "GROVE ROAD",
-        "address_line_2": "HEADINGLEY",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS6 2AE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.532085, 53.747855] },
-      "properties": {
-        "organisation_code": "Y00346",
-        "name": "COMMUNITY PAEDIATRIC CLINIC",
-        "address_line_1": "ST GEORGE'S CENTRE",
-        "address_line_2": "ST GEORGE'S ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS10 4UZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.534179, 53.84231] },
-      "properties": {
-        "organisation_code": "Y00442",
-        "name": "ST GEMMA'S HOSPICE",
-        "address_line_1": "329 HARROGATE ROAD",
-        "address_line_2": "",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS17 6QD",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.529984, 53.802016] },
-      "properties": {
-        "organisation_code": "Y00523",
-        "name": "ST MARTINS HEALTHCARE SERVICES",
-        "address_line_1": "ST MARTINS H/CARE SERVS",
-        "address_line_2": "MILL 2, MABGATE MILLS",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS9 7DZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.604902, 53.742949] },
-      "properties": {
-        "organisation_code": "Y00554",
-        "name": "COMMUNITY UROLOGY SERVICE",
-        "address_line_1": "FOUNTAIN MEDICAL CENTRE",
-        "address_line_2": "LITTLE FOUNTAIN STREET",
-        "address_line_3": "MORLEY",
-        "address_line_4": "LEEDS",
-        "address_line_5": "",
-        "postcode": "LS27 9EN",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000826",
-        "Consituitency": "Morley and Outwood",
-        "MP": "Andrea Jenkyns",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.555879, 53.778323] },
-      "properties": {
-        "organisation_code": "Y00556",
-        "name": "COMMUNITY GYNAE SERVICE",
-        "address_line_1": "BEESTON HILL HC",
-        "address_line_2": "123 CEMETERY ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS11 8LH",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.841206, 53.922956] },
-      "properties": {
-        "organisation_code": "Y00630",
-        "name": "WHARFEDALE DERMATOLOGY CLINIC",
-        "address_line_1": "SPRINGS HEALTH CENTRE",
-        "address_line_2": "SPRINGS LANE",
-        "address_line_3": "ILKLEY",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS29 9TH",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000766",
-        "Consituitency": "Keighley",
-        "MP": "Robbie Moore",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.433956, 53.793245] },
-      "properties": {
-        "organisation_code": "Y00636",
-        "name": "ENT CLINIC",
-        "address_line_1": "COLTON MILL MEDICAL CTR",
-        "address_line_2": "STILE HILL WAY",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS15 9JB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.568473, 53.814971] },
-      "properties": {
-        "organisation_code": "Y00678",
-        "name": "INTERMEDIATE CARE (WEST 2)",
-        "address_line_1": "STOCKDALE HOUSE",
-        "address_line_2": "VICTORIA ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS6 1PF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
+        "Party": "Labour",
+        "total_patients_2013": 1913.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 1.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 1.0,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -2707,364 +3319,16 @@
         "constituency_code": "E14000689",
         "Consituitency": "Elmet and Rothwell",
         "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.593212, 53.796407] },
-      "properties": {
-        "organisation_code": "Y00693",
-        "name": "COMMUNITY GYNAECOLOGY SERVICE",
-        "address_line_1": "ARMLEY MOOR HEALTH CENTRE",
-        "address_line_2": "95 TOWN STREET",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS12 3HD",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.547737, 53.771599] },
-      "properties": {
-        "organisation_code": "Y00833",
-        "name": "S. LEEDS CAMHS - PARKSIDE",
-        "address_line_1": "S. LEEDS CAMHS - PARKSIDE",
-        "address_line_2": "311 DEWSBURY ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS11 5LQ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.599694, 53.817164] },
-      "properties": {
-        "organisation_code": "Y00835",
-        "name": "WEST CAMHS - KIRKSTALL",
-        "address_line_1": "KIRKSTALL HEALTH CENTRE",
-        "address_line_2": "15 MORRIS LANE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS5 3DB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.531703, 53.817673] },
-      "properties": {
-        "organisation_code": "Y00836",
-        "name": "EAST CAMHS",
-        "address_line_1": "1ST FLOOR,REGINALD CENTRE",
-        "address_line_2": "263 CHAPLETOWN ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 3EX",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.520359, 53.806869] },
-      "properties": {
-        "organisation_code": "Y00838",
-        "name": "CHILD & FAMILY UNIT 2",
-        "address_line_1": "CHILD & FAMILY UNIT 2",
-        "address_line_2": "E.CAMHS,ST JAMES HOSPITAL",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 7TF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.557057, 53.80293] },
-      "properties": {
-        "organisation_code": "Y00839",
-        "name": "LITTLE WOODHOUSE HALL",
-        "address_line_1": "LITTLE WOODHOUSE HALL",
-        "address_line_2": "18 CLARENDON ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS2 9NT",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.526199, 53.811432] },
-      "properties": {
-        "organisation_code": "Y00840",
-        "name": "LEEDS COMMUNITY CARDIAC SERVICE",
-        "address_line_1": "CHAPELTOWN HEALTH CENTRE",
-        "address_line_2": "SPENCER PLACE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 4BB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.532085, 53.747855] },
-      "properties": {
-        "organisation_code": "Y00848",
-        "name": "LEEDS VPS",
-        "address_line_1": "LCD @ ST GEORGES CENTRE",
-        "address_line_2": "ST GEORGE'S RD, MIDDLETON",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS10 4UZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.678802, 53.808549] },
-      "properties": {
-        "organisation_code": "Y00987",
-        "name": "INTERMEDIATE CARE TEAM",
-        "address_line_1": "RICHMOND HOUSE",
-        "address_line_2": "RICHMOND ROAD",
-        "address_line_3": "FARSLEY, LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS28 5ST",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000886",
-        "Consituitency": "Pudsey",
-        "MP": "Stuart Andrew",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.568473, 53.814971] },
-      "properties": {
-        "organisation_code": "Y01141",
-        "name": "COMMUNITY GERIATRICIAN SERVICE",
-        "address_line_1": "C/O STOCKDALE HOUSE",
-        "address_line_2": "VICTORIA ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS6 1PF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.520359, 53.806869] },
-      "properties": {
-        "organisation_code": "Y01186",
-        "name": "COMMUNITY INTERMEDIATE CARE UNIT",
-        "address_line_1": "J31, BECKETT WING",
-        "address_line_2": "SJUH, BECKETT STREET",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 7TF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.588634, 53.798764] },
-      "properties": {
-        "organisation_code": "Y01246",
-        "name": "YOUNG PERSONS DRUG SERVICE- PLATFORM",
-        "address_line_1": "17-18 ARMLEY PARK COURT",
-        "address_line_2": "STANNINGLEY ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS12 2AE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.543409, 53.825088] },
-      "properties": {
-        "organisation_code": "Y01276",
-        "name": "COMMUNITY EYE CLINIC",
-        "address_line_1": "COMMUNITY EYE CLINIC",
-        "address_line_2": "RUTLAND LODGE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 3DR",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.506611, 53.799864] },
-      "properties": {
-        "organisation_code": "Y01296",
-        "name": "INTERMEDIATE CARE",
-        "address_line_1": "1ST FLOOR,YORK TOWERS",
-        "address_line_2": "383 YORK ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 6TA",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.515742, 53.809511] },
-      "properties": {
-        "organisation_code": "Y01616",
-        "name": "LEEDS CIRCUMCISION SERVICE",
-        "address_line_1": "ASHTON VIEW MEDICAL CTR.",
-        "address_line_2": "7 ASHTON VIEW",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS8 5BS",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.520359, 53.806869] },
-      "properties": {
-        "organisation_code": "Y01884",
-        "name": "COMMUNITY CHILD HEALTH",
-        "address_line_1": "ST JAMES'S UNIVERSITY HPL",
-        "address_line_2": "BECKETT STREET",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 7TF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.513393, 53.843234] },
-      "properties": {
-        "organisation_code": "Y01912",
-        "name": "STREET LANE DERMATOLOGY CLINIC",
-        "address_line_1": "STREET LANE PRACTICE",
-        "address_line_2": "12 DEVONSHIRE AVENUE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS8 1AY",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
+        "Party": "Conservative",
+        "total_patients_2013": 1595.0,
+        "total_patients_2022": NaN,
+        "patient_change_pc": NaN,
+        "total_gp_hc_2013": 2.0,
+        "total_gp_hc_2022": NaN,
+        "gp_hc_change_pc": NaN,
+        "total_gp_fte_2013": 1.351,
+        "total_gp_fte_2022": NaN,
+        "gp_fte_change_pc": NaN
       }
     },
     {
@@ -3085,196 +3349,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.544048, 53.80163] },
-      "properties": {
-        "organisation_code": "Y02041",
-        "name": "LEEDS INTEGRATED SEXUAL HEALTH SERVICE",
-        "address_line_1": "50 MERRION CENTRE",
-        "address_line_2": "MERRION WAY",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS2 8NG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.559122, 53.804814] },
-      "properties": {
-        "organisation_code": "Y02127",
-        "name": "LEEDS ADDICTION UNIT",
-        "address_line_1": "19 SPRINGFIELD MOUNT",
-        "address_line_2": "LEEDS",
-        "address_line_3": "WEST YORKSHIRE",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS2 9NG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.573862, 53.82129] },
-      "properties": {
-        "organisation_code": "Y02189",
-        "name": "S.LEEDS PALLCARE DAY SERV",
-        "address_line_1": "C/O WHEATFIELD'S HOSPICE",
-        "address_line_2": "GROVE ROAD",
-        "address_line_3": "HEADINGLEY, LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS6 2AE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.549838, 53.807811] },
-      "properties": {
-        "organisation_code": "Y02288",
-        "name": "GPWSI SEXUAL HEALTH SCREENING SERVICE",
-        "address_line_1": "LEEDS STUDENT MED PRAC",
-        "address_line_2": "4 BLENHEIM COURT",
-        "address_line_3": "BLENHEIM WALK",
-        "address_line_4": "LEEDS",
-        "address_line_5": "",
-        "postcode": "LS2 9AE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.57617, 53.795728] },
-      "properties": {
-        "organisation_code": "Y02289",
-        "name": "HMP LEEDS",
-        "address_line_1": "HMP LEEDS",
-        "address_line_2": "2 GLOUCESTER TERRACE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS12 2TJ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.568473, 53.814971] },
-      "properties": {
-        "organisation_code": "Y02333",
-        "name": "LEEDS SPECIALIST CHILDREN'S SERVICE",
-        "address_line_1": "STOCKDALE HOUSE",
-        "address_line_2": "VICTORIA ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS6 1PF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.532623, 53.779089] },
-      "properties": {
-        "organisation_code": "Y02339",
-        "name": "LEEDS YOUTH OFFENDING SERVICE",
-        "address_line_1": "YOUTH JUSTICE CENTRE",
-        "address_line_2": "CHURCH STREET",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS10 2AY",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.543409, 53.825088] },
-      "properties": {
-        "organisation_code": "Y02345",
-        "name": "NE INTERMEDIATE CARE",
-        "address_line_1": "NE INTERMEDIATE CARE",
-        "address_line_2": "RUTLAND LODGE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 3DR",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.661311, 53.795009] },
-      "properties": {
-        "organisation_code": "Y02459",
-        "name": "ROBIN LANE OPTHALMOLOGY SERVS",
-        "address_line_1": "ROBIN LANE MEDICAL CENTRE",
-        "address_line_2": "ROBIN LANE, PUDSEY",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS28 7DE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000886",
-        "Consituitency": "Pudsey",
-        "MP": "Stuart Andrew",
-        "Party": "Conservative"
+        "Party": "Labour",
+        "total_patients_2013": 9939.0,
+        "total_patients_2022": 15525.0,
+        "patient_change_pc": 56.20283730757622,
+        "total_gp_hc_2013": 4.0,
+        "total_gp_hc_2022": 7.0,
+        "gp_hc_change_pc": 75.0,
+        "total_gp_fte_2013": 2.289,
+        "total_gp_fte_2022": 4.266666667,
+        "gp_fte_change_pc": 86.39871852337264
       }
     },
     {
@@ -3295,1435 +3379,16 @@
         "constituency_code": "E14000777",
         "Consituitency": "Leeds Central",
         "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.817766, 53.920658] },
-      "properties": {
-        "organisation_code": "Y02899",
-        "name": "TROUTBECK NURSING HOME",
-        "address_line_1": "CROSSBECK ROAD",
-        "address_line_2": "",
-        "address_line_3": "ILKLEY",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS29 9JP",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000766",
-        "Consituitency": "Keighley",
-        "MP": "Robbie Moore",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.328355, 53.916178] },
-      "properties": {
-        "organisation_code": "Y03156",
-        "name": "HMP WEALSTUN",
-        "address_line_1": "CHURCH CAUSEWAY",
-        "address_line_2": "THORP ARCH",
-        "address_line_3": "WETHERBY",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS23 7AZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000689",
-        "Consituitency": "Elmet and Rothwell",
-        "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.36782, 53.935249] },
-      "properties": {
-        "organisation_code": "Y03157",
-        "name": "HMP/YOI WETHERBY",
-        "address_line_1": "YORK ROAD",
-        "address_line_2": "",
-        "address_line_3": "WETHERBY",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS22 5ED",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000689",
-        "Consituitency": "Elmet and Rothwell",
-        "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.881423, 53.943683] },
-      "properties": {
-        "organisation_code": "Y03188",
-        "name": "ADDINGHAM CASH CLINIC",
-        "address_line_1": "ADDINGHAM MEDICAL CENTRE",
-        "address_line_2": "151A MAIN STREET",
-        "address_line_3": "ADDINGHAM",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS29 0LZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000766",
-        "Consituitency": "Keighley",
-        "MP": "Robbie Moore",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.813674, 53.923204] },
-      "properties": {
-        "organisation_code": "Y03190",
-        "name": "ILKLEY CASH CLINIC",
-        "address_line_1": "CORONATION HOSPITAL",
-        "address_line_2": "SPRINGS LANE",
-        "address_line_3": "ILKLEY",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS29 8TG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000766",
-        "Consituitency": "Keighley",
-        "MP": "Robbie Moore",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.344259, 53.900051] },
-      "properties": {
-        "organisation_code": "Y03322",
-        "name": "MARTIN HOUSE HOSPICE",
-        "address_line_1": "MARTIN HOUSE",
-        "address_line_2": "GROVE ROAD, CLIFFORD",
-        "address_line_3": "WETHERBY",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS23 6TX",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000689",
-        "Consituitency": "Elmet and Rothwell",
-        "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.531703, 53.817673] },
-      "properties": {
-        "organisation_code": "Y03444",
-        "name": "CHILD DEVELOPMENT CENTRE (EAST/NE)",
-        "address_line_1": "THE REGINALD CENTRE",
-        "address_line_2": "263 CHAPELTOWN ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS7 3EX",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.427937, 53.798643] },
-      "properties": {
-        "organisation_code": "Y03554",
-        "name": "LEODIS COMMUNITY DERMATOLOGY CLINIC",
-        "address_line_1": "THORPE PARK CLINIC",
-        "address_line_2": "4600 PARK APPROACH",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS15 8GB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.61581, 53.881903] },
-      "properties": {
-        "organisation_code": "Y03561",
-        "name": "CHEVIN MEDICAL CONSULTANCY ENT SERVICE",
-        "address_line_1": "TREDGOLD CRES",
-        "address_line_2": "BRAMHOPE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS16 9BR",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.565811, 53.827167] },
-      "properties": {
-        "organisation_code": "Y03564",
-        "name": "MEANWOOD GROUP PRACTICE ENT SERVICE",
-        "address_line_1": "MEANWOOD HEALTH CENTRE",
-        "address_line_2": "548 MEANWOOD ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS6 4JN",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.612399, 53.799904] },
-      "properties": {
-        "organisation_code": "Y03611",
-        "name": "LEEDS LOCAL PAEDIATRIC CLINICS",
-        "address_line_1": "CHILD HEALTH - ST MARY'S",
-        "address_line_2": "GREENHILL ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS12 3QE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.612399, 53.799904] },
-      "properties": {
-        "organisation_code": "Y03624",
-        "name": "COMMUNITY PAEDIATRICS (SILCS)",
-        "address_line_1": "CHILD HEALTH - ST MARY'S",
-        "address_line_2": "GREENHILL ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS12 3QE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.568473, 53.814971] },
-      "properties": {
-        "organisation_code": "Y03889",
-        "name": "LCH NEIGHBOURHOOD TEAMS",
-        "address_line_1": "STOCKDALE HOUSE",
-        "address_line_2": "VICTORIA ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS6 1PF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.500021, 53.802131] },
-      "properties": {
-        "organisation_code": "Y03890",
-        "name": "DISTRICT NURSING SERVICE",
-        "address_line_1": "SHAFTSBURY HOUSE",
-        "address_line_2": "480 HAREHILLS LANE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 6NG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.547426, 53.744103] },
-      "properties": {
-        "organisation_code": "Y03891",
-        "name": "HEALTH VISITING SERVICE",
-        "address_line_1": "MIDDLETON COMMUNITY H.CTR",
-        "address_line_2": "MIDDLETON PARK AVENUE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS10 4HT",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.568473, 53.814971] },
-      "properties": {
-        "organisation_code": "Y03892",
-        "name": "LCH CITY-WIDE SERVICES",
-        "address_line_1": "STOCKDALE HOUSE",
-        "address_line_2": "VICTORIA ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS6 1PF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.500021, 53.802131] },
-      "properties": {
-        "organisation_code": "Y03902",
-        "name": "COMMUNITY MATRON SERVICE",
-        "address_line_1": "SHAFTSBURY HOUSE",
-        "address_line_2": "480 HAREHILLS LANE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 6NG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.500021, 53.802131] },
-      "properties": {
-        "organisation_code": "Y03903",
-        "name": "DISTRICT NURSING SERVICE",
-        "address_line_1": "SHAFTSBURY HOUSE",
-        "address_line_2": "480 HAREHILLS LANE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 6NG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.547426, 53.744103] },
-      "properties": {
-        "organisation_code": "Y03904",
-        "name": "HEALTH VISITING SERVICE",
-        "address_line_1": "MIDDLETON COMMUNITY H.CTR",
-        "address_line_2": "MIDDLETON PARK AVENUE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS10 4HT",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.500021, 53.802131] },
-      "properties": {
-        "organisation_code": "Y03905",
-        "name": "COMMUNITY MATRON SERVICE",
-        "address_line_1": "SHAFTSBURY HOUSE",
-        "address_line_2": "480 HAREHILLS LANE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 6NG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.500021, 53.802131] },
-      "properties": {
-        "organisation_code": "Y03906",
-        "name": "DISTRICT NURSING SERVICE",
-        "address_line_1": "SHAFTSBURY HOUSE",
-        "address_line_2": "480 HAREHILLS LANE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 6NG",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.547426, 53.744103] },
-      "properties": {
-        "organisation_code": "Y03907",
-        "name": "HEALTH VISITING SERVICE",
-        "address_line_1": "MIDDLETON COMMUNITY H.CTR",
-        "address_line_2": "MIDDLETON PARK AVENUE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS10 4HT",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.25824, 53.885494] },
-      "properties": {
-        "organisation_code": "Y03989",
-        "name": "E & W YORK COMM SERV (6)",
-        "address_line_1": "TADCASTER HEALTH CENTRE",
-        "address_line_2": "CRAB GARTH",
-        "address_line_3": "TADCASTER",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS24 8HD",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000917",
-        "Consituitency": "Selby and Ainsty",
-        "MP": "Nigel Adams",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.253519, 53.798594] },
-      "properties": {
-        "organisation_code": "Y04014",
-        "name": "SOUTH YORK COMM SERV (5)",
-        "address_line_1": "SHERBURN MEDICAL CENTRE",
-        "address_line_2": "BEECH GROVE",
-        "address_line_3": "SHERBURN",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS25 6ED",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000917",
-        "Consituitency": "Selby and Ainsty",
-        "MP": "Nigel Adams",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.25824, 53.885494] },
-      "properties": {
-        "organisation_code": "Y04015",
-        "name": "SOUTH YORK COMM SERV (6)",
-        "address_line_1": "TADCASTER HEALTH CENTRE",
-        "address_line_2": "CRAB GARTH",
-        "address_line_3": "TADCASTER",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS24 8HD",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000917",
-        "Consituitency": "Selby and Ainsty",
-        "MP": "Nigel Adams",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.700604, 53.914372] },
-      "properties": {
-        "organisation_code": "Y04203",
-        "name": "DR WHARFEDALE MIU/OOH",
-        "address_line_1": "WHARFEDALE HOSPITAL",
-        "address_line_2": "NEWELL CARR ROAD",
-        "address_line_3": "OTLEY",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS21 2LY",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.532085, 53.747855] },
-      "properties": {
-        "organisation_code": "Y04204",
-        "name": "DR ST GEORGES MIU/OOH",
-        "address_line_1": "ST GEORGES CENTRE",
-        "address_line_2": "ST GEORGES RD,MIDDLETON",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS10 4UZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.526199, 53.811432] },
-      "properties": {
-        "organisation_code": "Y04377",
-        "name": "COMMUNITY RESPIRATORY SERVICE",
-        "address_line_1": "CHAPELTOWN HEALTH CENTRE",
-        "address_line_2": "SPENCER PLACE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 4BB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.526509, 53.779894] },
-      "properties": {
-        "organisation_code": "Y04482",
-        "name": "COMMUNITY CHILDREN'S NURSING SERVICE",
-        "address_line_1": "HUNSLET HEALTH CENTRE",
-        "address_line_2": "CHURCH STREET",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS10 2PT",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.612399, 53.799904] },
-      "properties": {
-        "organisation_code": "Y04522",
-        "name": "COMMUNITY PARKINSON'S SERVICE",
-        "address_line_1": "ST MARY'S HOSPITAL",
-        "address_line_2": "GREENHILL ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS12 3QE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.568473, 53.814971] },
-      "properties": {
-        "organisation_code": "Y04567",
-        "name": "LCH POLICE CUSTODY SUITES SERVICES",
-        "address_line_1": "STOCKDALE HOUSE",
-        "address_line_2": "VICTORIA ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS6 1PF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.54567, 53.800047] },
-      "properties": {
-        "organisation_code": "Y04572",
-        "name": "ONE MEDICARE DERMATOLOGY SERVICE",
-        "address_line_1": "THE LIGHT SURGERY",
-        "address_line_2": "BALCONY LEVEL,THE HEADROW",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS1 8TL",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.520359, 53.806869] },
-      "properties": {
-        "organisation_code": "Y04624",
-        "name": "COMMUNITY RENAL SERVICE",
-        "address_line_1": "RENAL DEPARTMENT",
-        "address_line_2": "LTHT BECKETT ST",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS9 7TF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.612399, 53.799904] },
-      "properties": {
-        "organisation_code": "Y04706",
-        "name": "COMMUNITY REHABILITATION UNIT",
-        "address_line_1": "ST MARY'S HOSPITAL",
-        "address_line_2": "GREENHILL ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS12 3QE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.493931, 53.819982] },
-      "properties": {
-        "organisation_code": "Y04895",
-        "name": "ANTICOAGULANT CLINIC @ OAKWOOD LANE MP",
-        "address_line_1": "OAKWOOD LANE MP",
-        "address_line_2": "2 AMBERTON TERRACE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS8 3BZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.588634, 53.798764] },
-      "properties": {
-        "organisation_code": "Y05018",
-        "name": "FORWARD LEEDS",
-        "address_line_1": "UNITS4-18 ARMLEY PK COURT",
-        "address_line_2": "STANNINGLEY ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS12 2AE",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.61581, 53.881903] },
-      "properties": {
-        "organisation_code": "Y05027",
-        "name": "BRAMHOPE DERMATOLOGY COMMUNITY CLINIC",
-        "address_line_1": "BRAMHOPE HEALTH CENTRE",
-        "address_line_2": "TREGOLD CRESCENT,BRAMHOPE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS16 9BR",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.427937, 53.798643] },
-      "properties": {
-        "organisation_code": "Y05147",
-        "name": "LIVINGCARE HEALTH SERVICES ENT",
-        "address_line_1": "THORPE PARK CLINIC",
-        "address_line_2": "4600 PARK APPROACH",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS15 8GB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.57692, 53.820807] },
-      "properties": {
-        "organisation_code": "Y05216",
-        "name": "MEDISCAN OPHTHALMOLOGY SERVICES",
-        "address_line_1": "SPECSAVERS UNIT 2",
-        "address_line_2": "1 SHIRE OAK STREET",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS6 2AF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.543409, 53.825088] },
-      "properties": {
-        "organisation_code": "Y05221",
-        "name": "AMP HEALTHCARE OPHTHALMOLOGY",
-        "address_line_1": "RUTLAND LODGE MP",
-        "address_line_2": "SCOTT HALL ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 3DR",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.557562, 53.767959] },
-      "properties": {
-        "organisation_code": "Y05242",
-        "name": "SOUTH LEEDS INDEPENDENCE CENTRE",
-        "address_line_1": "ATHA CRESCENT",
-        "address_line_2": "BEESTON",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS11 7DB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.525196, 53.802098] },
-      "properties": {
-        "organisation_code": "Y05404",
-        "name": "SHAKESPEARE WIC",
-        "address_line_1": "179 CROMWELL MOUNT",
-        "address_line_2": "",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS9 7TA",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.526199, 53.811432] },
-      "properties": {
-        "organisation_code": "Y05623",
-        "name": "COMMUNITY IV SERVICE",
-        "address_line_1": "CHAPELTOWN HEALTH CENTRE",
-        "address_line_2": "SPENCER PLACE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS7 4BB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.526199, 53.811432] },
-      "properties": {
-        "organisation_code": "Y05793",
-        "name": "LEEDS COMMUNITY DIABETES SERVICE",
-        "address_line_1": "CHAPELTOWN HEALTH CENTRE",
-        "address_line_2": "SPENCER PLACE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 4BB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.551744, 53.801445] },
-      "properties": {
-        "organisation_code": "Y05863",
-        "name": "LGI GPS IN A+E",
-        "address_line_1": "LEEDS GENERAL INFIRMARY",
-        "address_line_2": "GREAT GEORGE STREET",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS1 3EX",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.520359, 53.806869] },
-      "properties": {
-        "organisation_code": "Y05864",
-        "name": "SJUH GPS IN A+E",
-        "address_line_1": "ST JAMES UNIVERSITY HOSP",
-        "address_line_2": "BECKETT STREET",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS9 7TF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.532085, 53.747855] },
-      "properties": {
-        "organisation_code": "Y05992",
-        "name": "ST GEORGE'S URGENT TREATMENT CENTRE",
-        "address_line_1": "2 ST GEORGE'S CENTRE",
-        "address_line_2": "ST GEORGE'S ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS10 4UZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.684874, 53.866228] },
-      "properties": {
-        "organisation_code": "Y05993",
-        "name": "AIREBOROUGH COMMUNITY CARE",
-        "address_line_1": "AIREBOROUGH FP",
-        "address_line_2": "SUFFOLK COURT, YEADON",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS19 7JN",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.555879, 53.778323] },
-      "properties": {
-        "organisation_code": "Y05999",
-        "name": "LEEDS COMMUNITY TB SERVICE",
-        "address_line_1": "BEESTON HILL HC",
-        "address_line_2": "123 CEMETERY ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS11 8LH",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.572143, 53.852805] },
-      "properties": {
-        "organisation_code": "Y06011",
-        "name": "ADEL BECK SCH",
-        "address_line_1": "EAST MOOR LANE",
-        "address_line_2": "ADEL",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS16 8EB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.53214, 53.822115] },
-      "properties": {
-        "organisation_code": "Y06097",
-        "name": "LEEDS NEWMEDICA OPTHALMOLOGY",
-        "address_line_1": "ST MARTINS HOUSE",
-        "address_line_2": "210 CHAPELTOWN ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 4HZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.531703, 53.817673] },
-      "properties": {
-        "organisation_code": "Y06098",
-        "name": "LEEDS EATING DISORDER SERVICE",
-        "address_line_1": "REGINALD CENTRE",
-        "address_line_2": "263 REGINALD ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS7 3EX",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.547737, 53.771599] },
-      "properties": {
-        "organisation_code": "Y06102",
-        "name": "SCHOOL NURSING SERVICE",
-        "address_line_1": "PARKSIDE HEALTH CENTRE",
-        "address_line_2": "311 DEWSBURY ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS11 5LQ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "D",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.587333, 53.816942] },
-      "properties": {
-        "organisation_code": "Y06109",
-        "name": "KIRKSTALL LANE COMMUNITY CARE",
-        "address_line_1": "KIRKSTALL LANE MC",
-        "address_line_2": "216 KIRKSTALL LANE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS6 3DS",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.431924, 53.79195] },
-      "properties": {
-        "organisation_code": "Y06110",
-        "name": "COLTON COMMUNITY CARE",
-        "address_line_1": "COLTON MILL MC",
-        "address_line_2": "STILE MILL WAY",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS15 9JH",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.534023, 53.843197] },
-      "properties": {
-        "organisation_code": "Y06111",
-        "name": "NORTH LEEDS MP COMMUNITY CARE",
-        "address_line_1": "NORTH LEEDS MEDICAL PRACT",
-        "address_line_2": "335 HARROGATE ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS17 6PZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.603988, 53.846632] },
-      "properties": {
-        "organisation_code": "Y06172",
-        "name": "HEALTH HARMONIE DERMATOLOGY LEEDS",
-        "address_line_1": "C/O IRELAND WOOD SURGERY",
-        "address_line_2": "IVESON APPROACH",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS16 6FR",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "C",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.449442, 53.752493] },
-      "properties": {
-        "organisation_code": "Y06272",
-        "name": "OULTON COMMUNITY CARE",
-        "address_line_1": "OULTON MEDICAL CENTRE",
-        "address_line_2": "QUARRY HILL, OULTON",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS26 8SZ",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000689",
-        "Consituitency": "Elmet and Rothwell",
-        "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.623035, 53.807827] },
-      "properties": {
-        "organisation_code": "Y06504",
-        "name": "BRAMLEY COMMUNITY CARE BEDS",
-        "address_line_1": "BRAMLEY VILLAGE HEALTH",
-        "address_line_2": "16 HIGHFIELD ROAD",
-        "address_line_3": "BRAMLEY, LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS13 2BL",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000781",
-        "Consituitency": "Leeds West",
-        "MP": "Rachel Reeves",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.816048, 53.923558] },
-      "properties": {
-        "organisation_code": "Y06517",
-        "name": "WACA EXTENDED ACCESS",
-        "address_line_1": "SPRINGS MEDICAL CENTRE",
-        "address_line_2": "SPRINGS LANE",
-        "address_line_3": "ILKLEY",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS29 8TH",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000766",
-        "Consituitency": "Keighley",
-        "MP": "Robbie Moore",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.610581, 53.838825] },
-      "properties": {
-        "organisation_code": "Y06735",
-        "name": "NHS LEEDS CCG HUB",
-        "address_line_1": "WIRA HOUSE SUITES 2-4",
-        "address_line_2": "WEST PARK RING ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS16 6EB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000780",
-        "Consituitency": "Leeds North West",
-        "MP": "Alex Sobel",
-        "Party": "Labour (Co-op)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.427937, 53.798643] },
-      "properties": {
-        "organisation_code": "Y06876",
-        "name": "LIVING CARE GASTROENTEROLOGY SERVICE",
-        "address_line_1": "THORPE PARK CLINIC",
-        "address_line_2": "4215 PARK APPROACH",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS15 8GB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.386469, 53.928613] },
-      "properties": {
-        "organisation_code": "Y06939",
-        "name": "PES AT APPLESON OPTOMETRISTS LEEDS",
-        "address_line_1": "43 MARKET PLACE",
-        "address_line_2": "",
-        "address_line_3": "WETHERBY",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS22 6LN",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000689",
-        "Consituitency": "Elmet and Rothwell",
-        "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.670564, 53.814078] },
-      "properties": {
-        "organisation_code": "Y06940",
-        "name": "PES AT TUNNACLIFFE & LAMBERT LEEDS",
-        "address_line_1": "64 TOWN STREET",
-        "address_line_2": "FARSLEY",
-        "address_line_3": "PUDSEY",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS28 5LF",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000886",
-        "Consituitency": "Pudsey",
-        "MP": "Stuart Andrew",
-        "Party": "Conservative"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.450471, 53.806487] },
-      "properties": {
-        "organisation_code": "Y06941",
-        "name": "PES AT SPECSAVERS CROSSGATES LEEDS",
-        "address_line_1": "UNIT 8A",
-        "address_line_2": "CROSSGATES SHOPPING CENTR",
-        "address_line_3": "LEEDS",
-        "address_line_4": "",
-        "address_line_5": "",
-        "postcode": "LS15 8ET",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000778",
-        "Consituitency": "Leeds East",
-        "MP": "Richard Burgon",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.526199, 53.811432] },
-      "properties": {
-        "organisation_code": "Y07036",
-        "name": "TIER 3 WEIGHT MANAGEMENT SERVICE",
-        "address_line_1": "CHAPTELTOWN HEALTH CENTRE",
-        "address_line_2": "SPENCER PLACE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS7 4BB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000779",
-        "Consituitency": "Leeds North East",
-        "MP": "Fabian Hamilton",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.514944, 53.793168] },
-      "properties": {
-        "organisation_code": "Y07123",
-        "name": "CO-FORMATION (VILLA AND CO)",
-        "address_line_1": "EAST PARK MEDICAL CENTRE",
-        "address_line_2": "5-7 EAST PARK ROAD",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS9 9JD",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000777",
-        "Consituitency": "Leeds Central",
-        "MP": "Hilary Benn",
-        "Party": "Labour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [-1.387446, 53.792314] },
-      "properties": {
-        "organisation_code": "Y07272",
-        "name": "LS25/LS26 PCN HUB (LIVI)",
-        "address_line_1": "GARFORTH MEDICAL CENTRE",
-        "address_line_2": "CHURCH LANE",
-        "address_line_3": "LEEDS",
-        "address_line_4": "WEST YORKSHIRE",
-        "address_line_5": "",
-        "postcode": "LS25 1HB",
-        "open_date": null,
-        "close_date": null,
-        "status_code": "A",
-        "constituency_code": "E14000689",
-        "Consituitency": "Elmet and Rothwell",
-        "MP": "Alec Shelbrooke",
-        "Party": "Conservative"
+        "Party": "Labour",
+        "total_patients_2013": 3342.0,
+        "total_patients_2022": 6934.0,
+        "patient_change_pc": 107.48055056852183,
+        "total_gp_hc_2013": 1.0,
+        "total_gp_hc_2022": 2.0,
+        "gp_hc_change_pc": 100.0,
+        "total_gp_fte_2013": 1.0,
+        "total_gp_fte_2022": 0.76,
+        "gp_fte_change_pc": -24.0
       }
     }
   ]
