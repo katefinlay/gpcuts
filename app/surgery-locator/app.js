@@ -83,42 +83,85 @@ const mapStyle = [{
       styles: mapStyle,
     });
   
-    // Load the surgeries GeoJSON onto the map.
+    // Load the stores GeoJSON onto the map.
     map.data.loadGeoJson('surgeries.json', {idPropertyName: 'storeid'});
   
     // Define the custom marker icons, using the store's "category".
-    // map.data.setStyle((feature) => {
-    //   return {
-    //     icon: {
-    //       url: `img/icon_${feature.getProperty('category')}.png`,
-    //       scaledSize: new google.maps.Size(64, 64),
-    //     },
-    //   };
-    // });
+    map.data.setStyle((feature) => {
+      return {
+        icon: {
+          url: `img/icons8-map-pin-30.png`,
+          scaledSize: new google.maps.Size(36, 36),
+        },
+      };
+    });
   
-    const apiKey = '';
+    const apiKey = 'AIzaSyAb5BKeyZAxMxLlhemqMcO0Csutw6ebs2E';
     const infoWindow = new google.maps.InfoWindow();
   
+    // "total_patients_2013": 2916.0,
+    // "total_patients_2022": 3244.0,
+    // "patient_change_pc": 11.248285322359397,
+    // "total_gp_hc_2013": 2.0,
+    // "total_gp_hc_2022": 2.0,
+    // "gp_hc_change_pc": 0.0,
+    // "total_gp_fte_2013": 1.5,
+    // "total_gp_fte_2022": 1.266666667,
+    // "gp_fte_change_pc": -15.555555533333335
     // Show the information for a store when its marker is clicked.
     map.data.addListener('click', (event) => {
-      const category = event.feature.getProperty('category');
-      const name = event.feature.getProperty('name');
-      const description = event.feature.getProperty('description');
-      const hours = event.feature.getProperty('hours');
-      const phone = event.feature.getProperty('phone');
-      const position = event.feature.getGeometry().get();
-      const content = `
+        const name = event.feature.getProperty('name');
+        const postcode = event.feature.getProperty('postcode');
+        const openDate = event.feature.getProperty('open_date');
+        const closeDate = event.feature.getProperty('close_date');
+        const constituency = event.feature.getProperty('constituency');
+        const mp = event.feature.getProperty('MP');
+        const party = event.feature.getProperty('Party');
+        const patients2013 = event.feature.getProperty('total_patients_2013');
+        const patients2022 = event.feature.getProperty('total_patients_2022');
+        const fte2013 = event.feature.getProperty('total_gp_fte_2013');
+        const fte2022 = event.feature.getProperty('total_gp_fte_2022');
+        const patientsPerGP2013 = Math.floor(parseFloat(patients2013) / parseFloat(fte2013));
+        const patientsPerGP2022 = Math.floor(parseFloat(patients2022) / parseFloat(fte2022));
+
+        const position = event.feature.getGeometry().get();
+        let content = `
         <div style="margin-left:20px; margin-bottom:20px;">
-          <h2>${name}</h2><p>${description}</p>
-          <p><b>Open:</b> ${hours}<br/><b>Phone:</b> ${phone}</p>
-          <p><img src="https://maps.googleapis.com/maps/api/streetview?size=350x120&location=${position.lat()},${position.lng()}&key=${apiKey}&solution_channel=GMP_codelabs_simplestorelocator_v1_a"></p>
-        </div>
+            <h2>${name}</h2><p>${postcode}</p>
         `;
-  
-      infoWindow.setContent(content);
-      infoWindow.setPosition(position);
-      infoWindow.setOptions({pixelOffset: new google.maps.Size(0, -30)});
-      infoWindow.open(map);
+        if (openDate != null || closeDate != null) {
+            content += `<p>`
+            if (openDate != null) {
+            content += `<b>Opened:</b> ${openDate}<br/>`;
+            }
+            if (closeDate != null) {
+            content += `<b>Closed:</b> ${closeDate}`;
+            } 
+            content += `</p>`;
+        } 
+        if (party != null) {
+            content += `<br/><b>Party</b>: ${party}`;
+        }
+        if (mp != null) {
+            content += `<br/><b>MP</b>: ${mp}`;
+        }
+        content += `<br/><br/><b>Total Patients</b>`;
+        content += `<br/><b>2013</b>: ${patients2013} <b>2022</b>: ${patients2022}`;
+        content += `<br/><br/><b>FTEs</b>`;
+        content += `<br/><b>2013</b>: ${fte2013} <b>2022</b>: ${fte2022}`;
+        content += `<br/></br><b>Patients per GP in 2013</b>: ${patientsPerGP2013}`;
+        content += `</br><b>Patients per GP in 2022</b>: ${patientsPerGP2022}`;
+
+        
+        
+
+        content += `
+            </div>
+        `;
+        infoWindow.setContent(content);
+        infoWindow.setPosition(position);
+        infoWindow.setOptions({pixelOffset: new google.maps.Size(0, -30)});
+        infoWindow.open(map);
     });
 
     // Build and add the search bar
@@ -145,50 +188,51 @@ const mapStyle = [{
     card.appendChild(container);
     map.controls[google.maps.ControlPosition.TOP_RIGHT].push(card);
 
-        // Make the search bar into a Places Autocomplete search bar and select
+    // Make the search bar into a Places Autocomplete search bar and select
     // which detail fields should be returned about the place that
     // the user selects from the suggestions.
     const autocomplete = new google.maps.places.Autocomplete(input, options);
 
-    autocomplete.setFields(['adr_address', 'geometry', 'name']);
-
+    autocomplete.setFields(
+        ['address_components', 'geometry', 'name']);
 
      // Set the origin point when the user selects an address
-  const originMarker = new google.maps.Marker({map: map});
-  originMarker.setVisible(false);
-  let originLocation = map.getCenter();
-
-  autocomplete.addListener('place_changed', async () => {
+    const originMarker = new google.maps.Marker({map: map});
     originMarker.setVisible(false);
-    originLocation = map.getCenter();
-    const place = autocomplete.getPlace();
+    let originLocation = map.getCenter();
 
-    if (!place.geometry) {
-      // User entered the name of a Place that was not suggested and
-      // pressed the Enter key, or the Place Details request failed.
-      window.alert('No address available for input: \'' + place.name + '\'');
-      return;
-    }
+    autocomplete.addListener('place_changed', async () => {
+        originMarker.setVisible(false);
+        originLocation = map.getCenter();
+        const place = autocomplete.getPlace();
 
-    // Recenter the map to the selected address
-    originLocation = place.geometry.location;
-    map.setCenter(originLocation);
-    map.setZoom(9);
-    console.log(place);
+        if (!place.geometry) {
+        // User entered the name of a Place that was not suggested and
+        // pressed the Enter key, or the Place Details request failed.
+        window.alert('No address available for input: \'' + place.name + '\'');
+        return;
+        }
 
-    originMarker.setPosition(originLocation);
-    originMarker.setVisible(true);
+        // Recenter the map to the selected address
+        originLocation = place.geometry.location;
+        map.setCenter(originLocation);
+        map.setZoom(15);
+        console.log(place);
 
-    // Use the selected address as the origin to calculate distances
-    // to each of the store locations
-    const rankedStores = await calculateDistances(map.data, originLocation);
-    showStoresList(map.data, rankedStores);
+        originMarker.setPosition(originLocation);
+        originMarker.setVisible(true);
 
-    return;
-  });
+        // Use the selected address as the origin to calculate distances
+        // to each of the store locations
+        const rankedStores = await calculateDistances(map.data, originLocation);
+        showStoresList(map.data, rankedStores);
+
+        return;
+    });
+  }
 
   async function calculateDistances(data, origin) {
-    const surgeries = [];
+    const stores = [];
     const destinations = [];
   
     // Build parallel arrays for the store IDs and destinations
@@ -196,7 +240,7 @@ const mapStyle = [{
       const storeNum = store.getProperty('storeid');
       const storeLoc = store.getGeometry().get();
   
-      surgeries.push(storeNum);
+      stores.push(storeNum);
       destinations.push(storeLoc);
     });
   
@@ -216,7 +260,7 @@ const mapStyle = [{
               const distanceText = element.distance.text;
               const distanceVal = element.distance.value;
               const distanceObject = {
-                storeid: surgeries[j],
+                storeid: stores[j],
                 distanceText: distanceText,
                 distanceVal: distanceVal,
               };
@@ -242,9 +286,9 @@ const mapStyle = [{
     return distancesList;
   }
 
-  function showSurgeriesList(data, surgeries) {
-    if (surgeries.length == 0) {
-      console.log('empty surgeries');
+  function showStoresList(data, stores) {
+    if (stores.length == 0) {
+      console.log('empty stores');
       return;
     }
   
@@ -268,7 +312,7 @@ const mapStyle = [{
       panel.removeChild(panel.lastChild);
     }
   
-    surgeries.forEach((store) => {
+    stores.forEach((store) => {
       // Add store details with text formatting
       const name = document.createElement('p');
       name.classList.add('place');
@@ -285,6 +329,4 @@ const mapStyle = [{
     panel.classList.add('open');
   
     return;
-  }
-    
   }
