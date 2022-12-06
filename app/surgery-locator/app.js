@@ -96,7 +96,7 @@ const mapStyle = [{
       };
     });
   
-    const apiKey = 'AIzaSyAb5BKeyZAxMxLlhemqMcO0Csutw6ebs2E';
+    const apiKey = '';
     const infoWindow = new google.maps.InfoWindow();
   
     // "total_patients_2013": 2916.0,
