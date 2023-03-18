@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #333;
+}
+
+.card {
+  border-radius: 15px;
+  border: none;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  transform: translateY(-5px);
+}
+
+.bg-primary {
+  background-color: #0072C6 !important;
+}
+
+.bg-secondary {
+  background-color: #6C757D !important;
+}
+
+.text-primary {
+  color: #0072C6 !important;
+}
+
+.text-secondary {
+  color: #6C757D !important;
+}
+
+.btn-primary {
+  background-color: #0072C6;
+  border: none;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #005DA5;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  transform: translateY(-2px);
+}
+
+.btn-secondary {
+  background-color: #6C757D;
+  border: none;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+  background-color: #5A6268;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  transform: translateY(-2px);
+}
+
+.info-window-container {
+  padding: 1rem;
+}
+
+.info-window-header {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.info-window-subheader {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.info-window-body {
+  margin-bottom: 1rem;
+}
+
+.info-window-link {
+  display: inline-block;
+  margin-right: 0.5rem;
+  font-size: 1.2rem;
+}
