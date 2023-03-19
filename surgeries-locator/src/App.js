@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import { GoogleMap, LoadScript, Marker, InfoWindow, useJsApiLoader } from "@react-google-maps/api";
 import data from "./surgeries.json";
 import "./App.css";
@@ -10,18 +10,13 @@ const containerStyle = {
 };
 
 const center = {
-  lat: 51.5074,
-  lng: -0.1278,
+  lat: 53.8008,
+  lng: -1.5491
 };
 
 const options = {
-  styles: [
-    {
-      featureType: "poi",
-      elementType: "labels",
-      stylers: [{ visibility: "off" }],
-    },
-  ],
+  disableDefaultUI: true,
+  zoomControl: true
 };
 
 export default function App() {
@@ -36,32 +31,39 @@ export default function App() {
     width: "100%",
   };
 
-  const apiKey = process.env.REACT_APP_GOOGLE_MAPS_API_KEY;
+  const apiKey = '';
 
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
     googleMapsApiKey: apiKey
   })
 
-  const [map, setMap] = React.useState(null)
+  const [maps, setMaps] = useState(null);
 
+  useEffect(() => {
+    if (isLoaded) {
+      window.gm_authFailure = () => {
+        console.error('Google Maps API authentication error');
+      };
+  
+      window.initMap = () => {
+        setMaps(window.google.maps);
+      };
+  
+      const script = document.createElement('script');
+      script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&callback=initMap`;
+      script.async = true;
+      document.body.appendChild(script);
+    }
+  }, [isLoaded]);
 
-  const onLoad = React.useCallback(function callback(map) {
-    // This is just an example of getting and using the map instance!!! don't just blindly copy!
-    const bounds = new window.google.maps.LatLngBounds(center);
-    map.fitBounds(bounds);
-
-    setMap(map)
+  const onLoad = useCallback(function callback(map) {
+    setMaps(window.google.maps);
   }, [])
 
-  console.log(isLoaded);
-
-  console.log(selected);
-
-  if (isLoaded) {
-    const maps = window.google.maps;
+  if (isLoaded && maps) {
     return (
-      <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={1} options={options} onLoad={onLoad}
+      <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={11} options={options} onLoad={onLoad}
       >
         {data.features.map((item) => {
           const { category } = item.properties;
