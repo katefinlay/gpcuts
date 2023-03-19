@@ -1,3 +1,4 @@
 pandas
 spyder
+boto3
 openpyxl
