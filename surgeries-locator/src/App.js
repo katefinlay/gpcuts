@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { GoogleMap, LoadScript, Marker, InfoWindow, useJsApiLoader } from "@react-google-maps/api";
-import data from "./surgeries.json";
+import data from "./practices_new.json";
 import "./App.css";
 import SurgeryInfo from "./SurgeryInfo";
 
@@ -45,11 +45,11 @@ export default function App() {
       window.gm_authFailure = () => {
         console.error('Google Maps API authentication error');
       };
-  
+
       window.initMap = () => {
         setMaps(window.google.maps);
       };
-  
+
       const script = document.createElement('script');
       script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&callback=initMap`;
       script.async = true;
@@ -61,26 +61,22 @@ export default function App() {
     setMaps(window.google.maps);
   }, [])
 
-  if (isLoaded && maps) {
+  if (isLoaded && maps && data != null) {
     return (
       <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={11} options={options} onLoad={onLoad}
       >
         {data.features.map((item) => {
-          const { category } = item.properties;
+          const { Party } = item.properties;
           let markerIcon = "";
-          switch (category) {
-            case "Doctors":
-              markerIcon = "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
-              break;
-            case "Clinics":
-              markerIcon = "http://maps.google.com/mapfiles/ms/icons/green-dot.png";
-              break;
-            case "Hospitals":
-              markerIcon = "http://maps.google.com/mapfiles/ms/icons/blue-dot.png";
-              break;
-            default:
-              markerIcon = "http://maps.google.com/mapfiles/ms/icons/yellow-dot.png";
-              break;
+
+          if (Party.includes("Labour")) {
+            markerIcon = "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
+          }
+          else if (Party.includes("Conservative")) {
+            markerIcon = "http://maps.google.com/mapfiles/ms/icons/blue-dot.png";
+          }
+          else {
+            markerIcon = "http://maps.google.com/mapfiles/ms/icons/yellow-dot.png";
           }
           return (
             <Marker
